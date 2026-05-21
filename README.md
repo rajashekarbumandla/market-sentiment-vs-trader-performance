@@ -14,6 +14,11 @@ Contains:
 - Date
 - Market Sentiment Classification (Fear/Greed)
 
+Dataset Link:  
+https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+
+---
+
 ### 2. Hyperliquid Historical Trader Dataset
 Contains:
 - Account
@@ -25,6 +30,9 @@ Contains:
 - Closed Profit & Loss (closedPnL)
 - Leverage
 - Event Information
+
+Dataset Link:  
+https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 
 ---
 
@@ -126,7 +134,7 @@ market-sentiment-vs-trader-performance/
 │   └── fear_greed_index.csv
 │
 ├── notebook/
-│   └── analysis.ipynb
+│   └── market_sentiment_vs_trader_performance.ipynb
 │
 ├── report/
 │   └── final_report.pdf
@@ -146,7 +154,7 @@ market-sentiment-vs-trader-performance/
 Upload:
 - historical_data.csv
 - fear_greed_index.csv
-- analysis.ipynb
+- market_sentiment_vs_trader_performance.ipynb
 
 Install required libraries if needed:
 
